@@ -5,7 +5,7 @@
 
 ### Composer install
 
-    $ composer require ray/fake-module
+    $ composer require ray/fake-module --dev
     
 ### Module install
 
